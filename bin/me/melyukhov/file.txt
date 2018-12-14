@@ -1,0 +1,8 @@
+function[]=main() 
+val=192/21;
+sec=val+19;
+r;
+t;
+y;
+length=val+sec;
+disp(val);
